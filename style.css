@@ -43,6 +43,7 @@ header {
   align-items: center;
   padding: 10px 200px;
 }
+
 .right-header {
   animation: fade-up 0.8s;
 }
